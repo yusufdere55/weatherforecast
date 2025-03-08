@@ -61,7 +61,7 @@ const CityDetailScreen = () => {
 
   const foundCity = cities.find((item) => item.plaka === parseInt(city));
 
-  let APIkey = "OPENWEATHERMAP_API_KEY";
+  let APIkey = import.meta.env.VITE_WEATHER_API_KEY;
 
 
 
