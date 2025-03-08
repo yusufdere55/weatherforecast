@@ -5,7 +5,6 @@ Bu, React, Vite ve TailwindCSS ile oluşturulmuş bir hava durumu tahmin uygulam
 ## Özellikler
 
 - Önümüzdeki 5 gün için hava durumu tahminlerini gösterir.
-- Sıcaklık, nem, rüzgar hızı ve daha fazlası dahil olmak üzere ayrıntılı hava durumu koşullarını gösterir.
 - Gün içindeki sıcaklık değişimlerini görselleştirmek için etkileşimli grafikler.
 - Kolay gezinme ile birden fazla şehri destekler.
 
